@@ -1,0 +1,88 @@
+.header {
+    background-color: black;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+.grid-item {
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.headings {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+a:link, a:visited, a:active {
+    background-color: transparent;
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+}
+a:hover {
+    color: yellow;
+}
+.blank {
+    color: transparent;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+}
+#form {
+    text-align: center;
+}
+body {
+    background-color: aqua;
+}
+#end {
+    background-color: black;
+    padding: 20px;
+}
+.grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5px;
+}
+.fa {  
+    text-align: center;   
+     font-size: 13px;  
+     
+   }  
+   .fa-facebook {  
+     background: #3B5998;  
+     color: white;  
+   }
+   .fa-youtube {  
+     background-color: #bb0000;  
+     color: white;  
+   }
+   .fa:hover {  
+     color: red; 
+ }
+ .footer {
+    color:white;
+}
+.social {
+    background-color: blue;
+}
+.fa-twitter {  
+    background-color: #55ACEE;  
+    color: white;  
+  }
+  .fa-github {
+    background-color: black;
+    color: white;
+  }
+  .fa-codepen {
+    background-color:yellow;
+    color:white;
+  }
+  .fa-mail-forward {
+    background-color:rgb(250, 120, 200) ;
+    color:white;
+  }

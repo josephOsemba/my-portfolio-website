@@ -1,0 +1,89 @@
+#title {
+    color: white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
+    background-color: black;
+}
+body {
+    background-color: whitesmoke;
+}
+#division1 {
+    padding:20px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:link, a:visited {
+    background-color: transparent;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+a:hover {
+    color: yellow;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    text-align: center;
+}
+.name {
+    color: blue;
+}
+.address {
+    color: white;
+}
+body {
+    background-color: aqua;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: left;
+}
+.blank {
+    color: transparent;
+}
+.grid-item {
+    padding: 10px;
+}
+.headings {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+.fa {  
+    text-align: center;   
+     font-size: 13px;  
+     
+   }  
+   .fa-facebook {  
+     background: #3B5998;  
+     color: white;  
+   }
+   .fa-youtube {  
+     background: #bb0000;  
+     color: white;  
+   }
+   .fa:hover {  
+     color: blue; 
+ }
+ #end {
+    background-color: black;
+    padding: 20px;
+}
+.grid-container3 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5px;
+}
+.footer {
+    color:white;
+}
+.grid-container4 {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 5px;
+}

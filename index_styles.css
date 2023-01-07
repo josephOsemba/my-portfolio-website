@@ -1,0 +1,76 @@
+
+#header {
+    background-color: black;
+}
+#heading1 {
+    text-align: left;
+    color: white;
+}
+body {
+    background-color: aqua;
+}
+#division1 {
+    text-align: right;
+}
+a:link, a:visited {
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    padding: 15px;
+}
+a:hover {
+    color: red;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    text-align: center;
+}
+.grid-item {
+    padding: 20px;
+    text-align: left;
+}
+.resume-item {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+#resume {
+    background-color: aqua;
+}
+#form {
+    text-align: center;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+}
+#end {
+    background-color: black;
+    padding: 20px;
+}
+.grid-item2 {
+    color: white;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    padding: 10px;
+}
+.fa {  
+   text-align: center;   
+    font-size: 13px;  
+    
+  }  
+  .fa-facebook {  
+    background: #3B5998;  
+    color: white;  
+  }
+  .fa-youtube {  
+    background: #bb0000;  
+    color: white;  
+  }
+  .fa:hover {  
+    color: blue; 
+}
