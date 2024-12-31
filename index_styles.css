@@ -1,25 +1,27 @@
 
 #header {
-    background-color: black;
+    /*background-color: lightslategrey;
+    border-radius: 20px;*/
 }
 #heading1 {
-    text-align: left;
-    color: white;
+    text-align:left;
+    color: black;
 }
 body {
-    background-color: aqua;
+    background-color:lightslategrey;
 }
 #division1 {
     text-align: right;
+    color: black;
 }
 a:link, a:visited {
     text-decoration: none;
     background-color: transparent;
-    color: white;
+    color: black;
     padding: 15px;
 }
 a:hover {
-    color: red;
+    color: lightgreen;
 }
 .grid-container {
     display: grid;
@@ -36,7 +38,7 @@ a:hover {
     font-size: large;
 }
 #resume {
-    background-color: aqua;
+   /* background-color: lightsteelblue;*/
 }
 #form {
     text-align: center;
@@ -47,11 +49,11 @@ a:hover {
     padding: 10px;
 }
 #end {
-    background-color: black;
+    background-color: lightslategrey;
     padding: 20px;
 }
 .grid-item2 {
-    color: white;
+    color: black;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: lighter;
@@ -65,11 +67,11 @@ a:hover {
   }  
   .fa-facebook {  
     background: #3B5998;  
-    color: white;  
+    color: black;  
   }
   .fa-youtube {  
     background: #bb0000;  
-    color: white;  
+    color: black;  
   }
   .fa:hover {  
     color: blue; 

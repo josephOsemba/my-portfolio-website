@@ -36,7 +36,7 @@ a:hover {
     color: white;
 }
 body {
-    background-color: aqua;
+    background-color: lightslategray;
 }
 .grid-container2 {
     display: grid;
